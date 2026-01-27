@@ -44,6 +44,10 @@ ca-pwt = "ca_pwt:entrypoint"
 Documentation = "https://go.hugobatista.com/gh/zerotrust-ca-powertoys#readme"
 Issues = "https://go.hugobatista.com/gh/zerotrust-ca-powertoys/issues"
 Source = "https://go.hugobatista.com/gh/zerotrust-ca-powertoys"
+Homepage = "https://go.hugobatista.com/gh/zerotrust-ca-powertoys"
+Repository = "https://go.hugobatista.com/gh/zerotrust-ca-powertoys.git"
+
+
 
 [tool.hatch.version]
 path = "src/ca_pwt/__about__.py"
