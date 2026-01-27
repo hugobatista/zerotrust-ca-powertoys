@@ -51,8 +51,8 @@ You can also install it from the source code:
 ### Docker
 Alternatively, you can use the Docker image:
 ```console
-> docker pull ghcr.io/0x6f677548/zerotrust-ca-powertoys:latest
-> docker run -it --rm ghcr.io/0x6f677548/zerotrust-ca-powertoys --help
+> docker pull ghcr.io/hugobatista/zerotrust-ca-powertoys:latest
+> docker run -it --rm ghcr.io/hugobatista/zerotrust-ca-powertoys --help
 ```
 
 ## Usage
