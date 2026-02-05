@@ -2,8 +2,6 @@
 
 [![PyPI - Version](https://img.shields.io/pypi/v/ca-pwt.svg)](https://pypi.org/project/ca-pwt)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ca-pwt.svg)](https://pypi.org/project/ca-pwt)
-[![GitHub - Lint](https://go.hugobatista.com/gh/zerotrust-ca-powertoys/actions/workflows/lint.yml/badge.svg)](https://go.hugobatista.com/gh/zerotrust-ca-powertoys/actions/workflows/lint.yml)
-[![GitHub - Test](https://go.hugobatista.com/gh/zerotrust-ca-powertoys/actions/workflows/test.yml/badge.svg)](https://go.hugobatista.com/gh/zerotrust-ca-powertoys/actions/workflows/test.yml)
 
 CA-PowerToys is a set of tools to help you manage Conditional Access policies in your tenant. It is a command line tool that can be used to export and import Conditional Access policies and associated groups, facilitating the editing of the policies in a human readable format. This is particular useful if you are implementing a Policy-as-Code approach, eventually using a Git repository to store your policies and a CI/CD pipeline (like Azure DevOps) to import them into your tenant.
 ![Overview](https://go.hugobatista.com/ghraw/zerotrust-ca-powertoys/main/docs/images/ca-powertoys-overview-architecture.png)
