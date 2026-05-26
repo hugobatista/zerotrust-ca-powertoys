@@ -1,4 +1,4 @@
-# Conditional Access PowerToys (CA-PowerToys)
+# Conditional Access PowerToys (CA-PowerToys) 🆔
 
 [![PyPI - Version](https://img.shields.io/pypi/v/ca-pwt.svg)](https://pypi.org/project/ca-pwt)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ca-pwt.svg)](https://pypi.org/project/ca-pwt)
